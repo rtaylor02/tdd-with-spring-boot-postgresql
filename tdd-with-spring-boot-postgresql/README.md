@@ -1,5 +1,6 @@
 # Source
-This project is based on course '[Spring Boot: Test-Driven Development](https://www.linkedin.com/learning/spring-boot-test-driven-development/web-testing-with-spring?resume=false&u=89799330)' by Frank P. Moley III on LinkedInLearning.
+This project is my own version of a project based on course '[Spring Boot: Test-Driven Development](https://www.linkedin.com/learning/spring-boot-test-driven-development/web-testing-with-spring?resume=false&u=89799330)' by Frank P. Moley III on LinkedInLearning.
+Location of the original code of the course is [here](C:\Users\mailb\OneDrive\LinkedIn_Learning\frank_p_moley\spring_boot_tdd\source_code).
 
 # Summary
 ## Unit Test
